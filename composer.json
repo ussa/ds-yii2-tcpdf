@@ -3,7 +3,7 @@
 	"version": "1.0.1",
 	"homepage": "http://www.tcpdf.org/",
 	"type": "library",
-	"description": "Reaplcement for drivesoftz/yii2-tcpdf abandoned package - TCPDF is a PHP class for generating PDF documents and barcodes.",
+	"description": "Replacement for drivesoftz/yii2-tcpdf abandoned package - TCPDF is a PHP class for generating PDF documents and barcodes.",
 	"keywords": ["DriveSoft","CoachMaxz","PDF","tcpdf","PDFD32000-2008","qrcode","datamatrix","pdf417","barcodes", "GlitchIT"],
 	"license": "LGPLv3",
 	"authors": [
